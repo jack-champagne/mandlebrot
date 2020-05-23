@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pygrapher.iml" filepath="$PROJECT_DIR$/.idea/pygrapher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mandlebrot/.idea/mandlebrot.iml" filepath="$PROJECT_DIR$/../mandlebrot/.idea/mandlebrot.iml" />
     </modules>
   </component>
 </project>
