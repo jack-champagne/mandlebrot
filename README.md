@@ -4,3 +4,6 @@ The mandlebrot set is a fractal set in the complex plane. Check out: [Mandelbrot
 
 Here is a sample image of the output:
 ![Mandlebrot](fractal-mandle.png)
+
+To be added:
+- [ ] multiprocessing
